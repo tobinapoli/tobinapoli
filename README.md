@@ -42,7 +42,6 @@
   <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Mis estadisticas de GitHub</h2>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tobinapoli&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tobinapoli&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
