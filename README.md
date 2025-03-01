@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+  <img align="right" height="200" width="320" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
 </a>
 
 - 📑 Student of **Bachelor's Degree in Systems**
@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/github/stars/tobinapoli?label=Stars" alt="Total Stars">
 </p>
 
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -38,6 +37,7 @@
   <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tobinapoli&theme=dark&show_icons=true&count_private=true" />
   <br></br>
+  <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=tobinapoli&theme=dark" />
 </td>
 
 <td width="50%" align="center">
@@ -55,6 +55,7 @@
     <summary><h2 style="display: inline-block">Technologies👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -68,7 +69,6 @@
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -84,7 +84,6 @@
 <a href="https://www.instagram.com/tobiinapoli/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 <a href="https://discordapp.com/users/tobiinapoli" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>  
 </p>
-
 
 <!--profile visit count-->
 <div align="center">
