@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="185" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); margin-right: 10px;">
+  <img align="right" height="185" width="290" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2); margin-right: 10px;">
 </a>
 
 - 📑 Student of **Bachelor's Degree in Systems**
