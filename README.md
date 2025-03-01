@@ -1,8 +1,8 @@
 <h1 align="center">
-  𝐇ola
+  𝐇ello
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-  </a>, &lt;Soy Tobi/&gt; !
+  </a>, &lt;I'm Tobi/&gt; !
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -14,17 +14,13 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-- 📑 Estudiante de **Licenciatura en Sistemas**
-- 🌱 Actualmente aprendiendo Desarrollo Web
-- 📧 Correo: tobiasnapoli03@gmail.com
+- 📑 Student of **Bachelor's Degree in Systems**
+- 🌱 Currently learning Web Development
+- 📧 Email: tobiasnapoli03@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/tobias-napoli-2b89a5267/
 
-
-
 <br/>
 <br/>
-
-
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=tobinapoli" alt="tobinapoli" />
@@ -39,7 +35,7 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> Mis estadisticas de GitHub</h2>
+  <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tobinapoli&theme=dark&show_icons=true&count_private=true" />
   <br></br>
 </td>
@@ -53,13 +49,10 @@
 </table>
 <!--- stats (end) -->
 
-
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -74,7 +67,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Redes sociales🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Social Media🤝</h2></summary>
   </ul>
 </div>
 
@@ -92,7 +85,3 @@
 [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
-
-
-----
-
