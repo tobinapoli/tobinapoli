@@ -22,29 +22,44 @@
 <br/>
 <br/>
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=tobinapoli" alt="tobinapoli" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/tobinapoli?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/tobinapoli?label=Stars" alt="Total Stars">
-</p>
-
-<!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tobinapoli&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=tobinapoli&theme=dark" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=tobinapoli&theme=dark&show_icons=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=tobinapoli&theme=light&show_icons=true&count_private=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tobinapoli&theme=dark&show_icons=true&count_private=true" style="margin-bottom: 30px;" />
+  </picture>
+
+  <br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=tobinapoli&theme=dark">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com/?user=tobinapoli&theme=light">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobinapoli&theme=dark" />
+  </picture>
+
 </td>
 
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tobinapoli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
-  </td>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tobinapoli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tobinapoli&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tobinapoli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </picture>
+
+</td>
 </tr>
 </table>
 <!--- stats (end) -->
