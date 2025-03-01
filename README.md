@@ -53,10 +53,10 @@
   
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tobinapoli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobinapoli&layout=pie&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tobinapoli&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tobinapoli&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tobinapoli&layout=pie&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobinapoli&layout=pie&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </picture>
 
 </td>
