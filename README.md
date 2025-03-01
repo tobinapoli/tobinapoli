@@ -11,7 +11,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="200" width="320" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
+  <img align="right" height="180" width="280" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.2);">
 </a>
 
 - 📑 Student of **Bachelor's Degree in Systems**
@@ -26,7 +26,7 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td width="60%" align="center">
   <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
   <picture>
@@ -49,7 +49,7 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="40%" align="center">
   
   <picture>
     <source media="(prefers-color-scheme: dark)" 
