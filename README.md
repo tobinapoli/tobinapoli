@@ -15,7 +15,7 @@
 </a>
 
 - 📑 Student of **Bachelor's Degree in Systems**
-- 🌱 Currently learning Web Development
+- 🌱 Currently learning Angular
 - 📧 Email: tobiasnapoli03@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/tobias-napoli-2b89a5267/
 
