@@ -31,7 +31,7 @@ I focus on Linux systems, AWS cloud architecture and secure infrastructure desig
 **Datastores:** PostgreSQL · MySQL  
 
 ### Supporting Skills
-Angular · Flask · HTML · CSS · JavaScript · Rust
+Angular · Flask · HTML · CSS · Java · Rust
 
 ---
 
